@@ -1,0 +1,12 @@
+canvas {
+  background-color: #f8f8f8;
+  width: 800px;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=chart.css.map */
